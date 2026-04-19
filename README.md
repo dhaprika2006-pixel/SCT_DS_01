@@ -1,5 +1,23 @@
 # SCT_DS_01
+
+# 🎨 My Figma UI Project
 Bar chart to visualize the distribution of  a categorical or continuous variable such as the distribution of ages or genders in the population
+
+## 📌 Project Overview
+This project is a UI/UX design created using Figma. It focuses on clean design, usability, and modern interface.
+
+## 🛠️ Tool Used
+- Figma
+
+## 🔗 Figma Design Link
+https://www.figma.com/make/L37DrsT2L5F4xkq86dqOcM/Create-bar-chart-and-histogram?t=6chgjFFhWQvEOUAb-1
+
+# 💡 What I Learned
+- UI/UX principles
+- Layout design
+- Color combinations
+
+#CODE
 const canvas = document.getElementById("canvas");
 const ctx = canvas.getContext("2d");
 
